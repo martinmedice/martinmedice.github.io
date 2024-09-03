@@ -14,11 +14,21 @@ I am a Data Analyst with a strong background in managing complex datasets, extra
 
 ## Projects
 
-### 1. [Fraud Detection in E-commerce](https://github.com/martinmedice/fraud-detection)
-- **Description:** Developed dashboards and conducted in-depth analysis to monitor and reduce fraud in credit card purchases for an e-commerce platform.
-- **Technologies:** Python, SQL, Power BI
-- **Outcome:** Successfully reduced the fraud chargeback rate by 30% through the identification of new fraud patterns.
+### 1. [Car Price Prediction using Machine Learning](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression)
+### Brief Description
+This project involves a machine learning application designed to predict the price of used cars based on various factors such as year, mileage, and condition. The goal was to create a tool that provides accurate price estimates, showcasing skills in data analysis, predictive modeling, and interactive application development with Streamlit.
 
+
+### Technologies Used
+- **Languages**: Python
+- **Tools and Libraries**: Pandas, NumPy, Scikit-learn, Streamlit, Pickle, Matplotlib, Seaborn
+
+### Repository Link
+[GitHub - Car Price Prediction](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression)
+
+### Additional Links
+- [Exploratory Data Analysis Notebook](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression/blob/main/notebooks/data_cleaning.ipynb): Explains the data cleaning and analysis process.
+- [Dataset Repository](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data): Source of the data used in the project.
 
 ## Professional Experience
 
