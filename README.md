@@ -14,9 +14,13 @@ I am a Data Analyst with a strong background in managing complex datasets, extra
 
 ## Projects
 
-### 1. [Car Price Prediction using Machine Learning](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression)
-### Brief Description
+### [1. Car Price Prediction using Machine Learning](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression)
 This project involves a machine learning application designed to predict the price of used cars based on various factors such as year, mileage, and condition. The goal was to create a tool that provides accurate price estimates, showcasing skills in data analysis, predictive modeling, and interactive application development with Streamlit.
+
+<p align="center">
+  <img src="assets/images/P1image1.png" alt="Car Price Prediction" width="300"/>
+  <img src="assets/images/P1image2.png" alt="Features Importance" width="480"/>
+</p>
 
 
 ### Technologies Used
