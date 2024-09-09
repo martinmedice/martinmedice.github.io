@@ -14,12 +14,32 @@ I am a Data Analyst with a strong background in managing complex datasets, extra
 
 ## Projects
 
+### [1. Data Visualization: E-commerce Sales Dashboard](https://github.com/martinmedice/E-commerce-Dashboard)
+This project consists of an interactive dashboard for analyzing sales using the Brazilian E-commerce Public Dataset by Olist. The dataset includes tables for orders, order items, customers and products allowing for comprehensive relational analysis.
+
+<p align="center">
+  <img src="assets/images/P1img1.png" alt="Dashboard" width="450"/>
+  <img src="assets/images/P1img2.png" alt="Dashboard" width="450"/>
+</p>
+
+
+### Technologies Used
+- **Languages**: Python
+- **Tools and Libraries**: Pandas, NumPy, Scikit-learn, Streamlit, Pickle, Matplotlib, Seaborn
+
+### Repository Link
+[GitHub - Car Price Prediction](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression)
+
+### Additional Links
+- [Exploratory Data Analysis Notebook](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression/blob/main/notebooks/data_cleaning.ipynb): Explains the data cleaning and analysis process.
+- [Dataset Repository](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data): Source of the data used in the project.
+
 ### [1. Car Price Prediction using Machine Learning](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression)
 This project involves a machine learning application designed to predict the price of used cars based on various factors such as year, mileage, and condition. The goal was to create a tool that provides accurate price estimates, showcasing skills in data analysis, predictive modeling, and interactive application development with Streamlit.
 
 <p align="center">
-  <img src="assets/images/P1image1.png" alt="Car Price Prediction" width="400"/>
-  <img src="assets/images/P1image2.png" alt="Features Importance" width="480"/>
+  <img src="assets/images/P2img1.png" alt="Car Price Prediction" width="400"/>
+  <img src="assets/images/P2img2.png" alt="Features Importance" width="480"/>
 </p>
 
 
