@@ -18,8 +18,8 @@ I am a Data Analyst with a strong background in managing complex datasets, extra
 This project consists of an interactive dashboard for analyzing sales using the Brazilian E-commerce Public Dataset by Olist. The dataset includes tables for orders, order items, customers and products allowing for comprehensive relational analysis.
 
 <p align="center">
-  <img src="assets/images/P1img1.png" alt="Dashboard" width="450"/>
-  <img src="assets/images/P1img2.png" alt="Dashboard" width="450"/>
+  <img src="assets/images/P1img1.png" alt="Dashboard" width="350"/>
+  <img src="assets/images/P1img2.png" alt="Dashboard" width="350"/>
 </p>
 
 
