@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst Portfolio
 
 ## About Me
 
@@ -24,17 +24,18 @@ This project consists of an interactive dashboard for analyzing sales using the 
 
 
 ### Technologies Used
-- **Languages**: Python
-- **Tools and Libraries**: Pandas, NumPy, Scikit-learn, Streamlit, Pickle, Matplotlib, Seaborn
+- **Tools**: Microsoft Power BI
+- **Data Sources**: Olist E-commerce Public Dataset (from Kaggle)
+- **Other Tools**: Power Query Editor, DAX (for creating custom measures in Power BI)
 
 ### Repository Link
-[GitHub - Car Price Prediction](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression)
+[GitHub - E-commerce Dashboard](https://github.com/martinmedice/E-commerce-Dashboard)
 
 ### Additional Links
-- [Exploratory Data Analysis Notebook](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression/blob/main/notebooks/data_cleaning.ipynb): Explains the data cleaning and analysis process.
-- [Dataset Repository](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data): Source of the data used in the project.
+- [Dataset Repository](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce): Source of the data used in the project.
 
-### [1. Car Price Prediction using Machine Learning](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression)
+
+### [2. Car Price Prediction using Machine Learning](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression)
 This project involves a machine learning application designed to predict the price of used cars based on various factors such as year, mileage, and condition. The goal was to create a tool that provides accurate price estimates, showcasing skills in data analysis, predictive modeling, and interactive application development with Streamlit.
 
 <p align="center">
