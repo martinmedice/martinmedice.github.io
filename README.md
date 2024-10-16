@@ -33,9 +33,49 @@ This project consists of an interactive dashboard for analyzing sales using the 
 
 ### Additional Links
 - [Dataset Repository](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce): Source of the data used in the project.
+_________________________________________
+### [2. Clustering E-commerce Customers using K-means](https://github.com/martinmedice/Kmeans-Customer-Clustering)
+This project aims to segment e-commerce customers using **K-means clustering**. The original dataset contains raw transactional data from an e-commerce platform, which was transformed into Recency, Frequency, and Average Monetary Value (RFA) metrics. By clustering customers based on these metrics, businesses can develop targeted marketing strategies to improve engagement and optimize sales.
 
+The K-means algorithm identified **4 customer segments**, each with unique characteristics:
+<p align="center">
+  <img src="assets/images/elbow_method.png" alt="3d_plot" width="400"/>
+</p>
 
-### [2. Car Price Prediction using Machine Learning](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression)
+- **Cluster 1**: Most valuable customers, showing high spending potential. Focus on retention and relationship building.
+- **Cluster 2**: Inactive customers with low engagement. Reactivation campaigns are necessary to bring them back.
+- **Cluster 3**: Engaged customers with very low spending. Focus on increasing average transaction value.
+- **Cluster 4**: Somewhat inactive customers with low purchase value. Improve experience and provide personalized incentives to re-engage them.
+
+<p align="center">
+  <img src="assets/images/3d_plot1.png" alt="3d_plot" width="400"/>
+  <img src="assets/images/3d_plot.png" alt="3d_plot" width="425"/>
+</p>
+
+### Cluster Profiles and Actions
+
+| Cluster | Recency (R) | Frequency (F) | Average Monetary Value (A) | Profile Description | Suggested Actions |
+|---------|-------------|---------------|----------------------------|---------------------|-------------------|
+| Cluster_1  | -0.542 | -0.066 | 0.182 | Recent, Average Frequency, High Value | Loyalty programs, Cross-selling, and Upselling |
+| Cluster_2  | 1.746 | -0.382 | -0.133 | Inactive, Low Frequency, Low Value | Reactivation campaigns, Personalized offers |
+| Cluster_3  | -0.599 | -0.079 | -0.862 | Recent, Average Frequency, Very Low Value | Upselling, Incentives to increase spending |
+| Cluster_4  | 0.608 | -0.276 | -0.202 | Somewhat inactive, Low Frequency, Low Value | Re-engagement campaigns, Improving customer experience |
+
+### Technologies Used
+- **Python**: For data preprocessing, modeling, and visualization.
+- **Libraries**: 
+  - `pandas`, `numpy`: Data manipulation and analysis.
+  - `scikit-learn`: Clustering algorithm and evaluation metrics.
+  - `matplotlib`, `seaborn`, `pyplot`: Data visualization.
+
+### Repository Link
+[GitHub - Kmeans Customer Clustering](https://github.com/martinmedice/Kmeans-Customer-Clustering)
+
+### Additional Links
+- [Exploratory Data Analysis Notebook](https://github.com/martinmedice/Kmeans-Customer-Clustering/blob/main/notebooks/clustering_notebook.ipynb): Explains the data cleaning and analysis process.
+
+_______________________________
+### [3. Car Price Prediction using Machine Learning](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression)
 This project involves a machine learning application designed to predict the price of used cars based on various factors such as year, mileage, and condition. The goal was to create a tool that provides accurate price estimates, showcasing skills in data analysis, predictive modeling, and interactive application development with Streamlit.
 
 <p align="center">
