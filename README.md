@@ -33,7 +33,8 @@ This project consists of an interactive dashboard for analyzing sales using the 
 
 ### Additional Links
 - [Dataset Repository](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce): Source of the data used in the project.
-_________________________________________
+___________________________________________
+
 ### [2. Clustering E-commerce Customers using K-means](https://github.com/martinmedice/Kmeans-Customer-Clustering)
 This project aims to segment e-commerce customers using **K-means clustering**. The original dataset contains raw transactional data from an e-commerce platform, which was transformed into Recency, Frequency, and Average Monetary Value (RFA) metrics. By clustering customers based on these metrics, businesses can develop targeted marketing strategies to improve engagement and optimize sales.
 
@@ -48,9 +49,16 @@ The K-means algorithm identified **4 customer segments**, each with unique chara
 - **Cluster 4**: Somewhat inactive customers with low purchase value. Improve experience and provide personalized incentives to re-engage them.
 
 <p align="center">
-  <img src="assets/images/3d_plot1.png" alt="3d_plot" width="400"/>
-  <img src="assets/images/3d_plot.png" alt="3d_plot" width="425"/>
+  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <div><strong>BEFORE CLUSTERING</strong></div> 
+    <img src="assets/images/3d_plot1.png" alt="3d_plot" width="300"/>
+  </div>
+  <div style="display: inline-block; text-align: center;">
+    <div><strong>AFTER CLUSTERING</strong></div> 
+    <img src="assets/images/3d_plot.png" alt="3d_plot" width="325"/>
+  </div>
 </p>
+
 
 ### Cluster Profiles and Actions
 
