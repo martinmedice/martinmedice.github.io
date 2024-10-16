@@ -66,7 +66,7 @@ The K-means algorithm identified **4 customer segments**, each with unique chara
       </td>
       <td style="text-align: center;">
         <div><strong>AFTER CLUSTERING</strong></div>
-        <img src="assets/images/3d_plot.png" alt="3d_plot" width="300"/>
+        <img src="assets/images/3d_plot.png" alt="3d_plot" width="325"/>
       </td>
     </tr>
   </table>
